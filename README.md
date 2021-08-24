@@ -8,4 +8,3 @@ testando se aprendi.
 
 deu certo, até aqui.
 
-tentando ate conseguir.
