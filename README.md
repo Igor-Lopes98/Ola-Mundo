@@ -4,7 +4,5 @@ Repositório criado durante uma aula ao vivo
 
 Essa linha eu adicionei diretamente no site! QUE IMPRESSIONATE!
 
-testando se aprendi.
-
-deu certo, até aqui.
+fazendo um Push pelo repositório local.
 
